@@ -1,2 +1,3 @@
 # hello-wold
-following the github guide to create a new repository
+
+Hi, I'm following the github guide to learn how to work on a github
